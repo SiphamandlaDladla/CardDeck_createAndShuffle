@@ -1,5 +1,5 @@
 # CardDeck_createAndShuffle
-full deck create and shuffle with java OOP
+full deck create and shuffle with Eclipse
 
 Using:
 Object Oriented Programming,
